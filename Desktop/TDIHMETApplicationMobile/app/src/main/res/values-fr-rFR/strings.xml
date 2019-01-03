@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TD IHM et Application Mobile KHADRAOUI</string>
+    <string name="input_form_activity_list_button">Afficher la liste </string>
+    <string name="Input_list_activity_go_to_input_button">Ajouter</string>
+    <string name="input_form_activity_add_button">Ajouter à la liste</string>
+    <string name="input_list_activity_title">Liste </string>
+    <string name="input_form_activity_title">Saisir quelques choses</string>
+    <string name="input_form_activity_input_field"></string>
+</resources>

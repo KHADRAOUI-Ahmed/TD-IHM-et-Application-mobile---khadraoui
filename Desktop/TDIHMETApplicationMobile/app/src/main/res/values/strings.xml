@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TD IHM et Application Mobile KHADRAOUI</string>
+    <string name="input_form_activity_list_button">Go to the list</string>
+    <string name="Input_list_activity_go_to_input_button">Add</string>
+    <string name="input_form_activity_add_button">Add in list</string>
+    <string name="input_list_activity_title">"List "</string>
+    <string name="input_form_activity_title">Enter something</string>
+    <string name="input_form_activity_input_field"></string>
+</resources>
